@@ -42,8 +42,8 @@ next-env.d.ts
 
 /src/
 
-# agent file
-AGENTS.md
+# # agent file
+# AGENTS.md
 
-# claude 
-CLAUDE.md
+# # claude 
+# CLAUDE.md
